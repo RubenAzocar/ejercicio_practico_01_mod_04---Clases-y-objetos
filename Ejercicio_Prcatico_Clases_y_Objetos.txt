@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Ejercicio Práctico - Clases y Objetos
 
 Modelando con Clases y Objetos en JavaScript
